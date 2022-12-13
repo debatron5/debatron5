@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @debatron5
-- 👀 I’m interested in information technology
+- 👋 Hi, I’m Debbie
 - 🌱 I’m currently learning coding and programming
 - 💞️ I’m looking to collaborate on anything that fits my goals
 - 📫 How to reach me--here :D
